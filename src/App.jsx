@@ -87,7 +87,8 @@ function App() {
         </div>
       </div>
       <p className="tradeMark">
-        Created By: <a href="wa.me/+2348023542997">Sodiq Makinde &#128233;</a>
+        Created By:{" "}
+        <a href="http://wa.me/+2348023542997">Sodiq Makinde &#128233;</a>
       </p>
     </Adviser>
   );
