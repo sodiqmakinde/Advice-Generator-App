@@ -104,12 +104,14 @@ let Adviser = styled.section`
     transition: all 0.3s;
   }
   .tradeMark {
-    position: absolute;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 20px;
     color: white;
     left: 50%;
     bottom: 0;
     color: hsl(193, 38%, 86%);
-    transform: translate(-50%, -0%);
+
     a {
       text-decoration: none !important;
       margin: 0 5px;
